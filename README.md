@@ -1,8 +1,8 @@
 # Hi there 👋
 ## I'm Victor - Junior Dev
-### 🖥️ I share here my projects in React / Node-Express / JS. 
+### 🖥️ I share here my projects in Vue / React and Node / Symfony for back. 
 ### and you which JS framework do you prefer? Hard to choose !
-#### I am currently doing an internship at Kiplin  💪 ! Let's go to work on Vue, Docker and many other technologies .
+#### I am currently on contract at Kiplin  💪 ! Stack => Vue - TS / Symfony , Docker, SQL
 ### My motto : Never give up !!
 <!--
 **vgaugler/vgaugler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
